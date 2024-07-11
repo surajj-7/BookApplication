@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MS.NET workspace\\BooksSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\views\\books\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\views\\books\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\repositories\\booksrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\repositories\\booksrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\views\\books\\getallbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\views\\books\\getallbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\views\\books\\sortbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\views\\books\\sortbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\views\\books\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\views\\books\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\views\\books\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\views\\books\\addbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\views\\books\\getbookbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\views\\books\\getbookbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\repositories\\ibooksrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\repositories\\ibooksrepomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|e:\\ms.net workspace\\bookssolution\\booksapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819E1EB3-26B4-491F-8569-3D1835EF262D}|BooksApplication\\BooksApplication.csproj|solutionrelative:booksapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionContext.cs",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\CollectionContext.cs",
+              "RelativeDocumentMoniker": "BooksApplication\\CollectionContext.cs",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\CollectionContext.cs",
+              "RelativeToolTip": "BooksApplication\\CollectionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:57:18.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BooksApplication\\Services\\BookService.cs",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Services\\BookService.cs",
+              "RelativeToolTip": "BooksApplication\\Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:54:10.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "BooksApplication\\Services\\IBookService.cs",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Services\\IBookService.cs",
+              "RelativeToolTip": "BooksApplication\\Services\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:51:03.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksRepoManager.cs",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Repositories\\BooksRepoManager.cs",
+              "RelativeDocumentMoniker": "BooksApplication\\Repositories\\BooksRepoManager.cs",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Repositories\\BooksRepoManager.cs",
+              "RelativeToolTip": "BooksApplication\\Repositories\\BooksRepoManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:55:56.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BooksApplication\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BooksApplication\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:50:07.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\Login.cshtml",
+              "RelativeDocumentMoniker": "BooksApplication\\Views\\Books\\Login.cshtml",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\Login.cshtml",
+              "RelativeToolTip": "BooksApplication\\Views\\Books\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:14:48.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllBooks.cshtml",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\GetAllBooks.cshtml",
+              "RelativeDocumentMoniker": "BooksApplication\\Views\\Books\\GetAllBooks.cshtml",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\GetAllBooks.cshtml",
+              "RelativeToolTip": "BooksApplication\\Views\\Books\\GetAllBooks.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T04:51:54.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortBooks.cshtml",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\SortBooks.cshtml",
+              "RelativeDocumentMoniker": "BooksApplication\\Views\\Books\\SortBooks.cshtml",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\SortBooks.cshtml",
+              "RelativeToolTip": "BooksApplication\\Views\\Books\\SortBooks.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:01:09.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteBook.cshtml",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\DeleteBook.cshtml",
+              "RelativeDocumentMoniker": "BooksApplication\\Views\\Books\\DeleteBook.cshtml",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\DeleteBook.cshtml",
+              "RelativeToolTip": "BooksApplication\\Views\\Books\\DeleteBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:49:58.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBook.cshtml",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\AddBook.cshtml",
+              "RelativeDocumentMoniker": "BooksApplication\\Views\\Books\\AddBook.cshtml",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\AddBook.cshtml",
+              "RelativeToolTip": "BooksApplication\\Views\\Books\\AddBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:32:08.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BooksApplication\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "BooksApplication\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T06:58:49.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BooksApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BooksApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:04:43.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetBookById.cshtml",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\GetBookById.cshtml",
+              "RelativeDocumentMoniker": "BooksApplication\\Views\\Books\\GetBookById.cshtml",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Views\\Books\\GetBookById.cshtml",
+              "RelativeToolTip": "BooksApplication\\Views\\Books\\GetBookById.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:53:43.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBooksRepoManager.cs",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Repositories\\IBooksRepoManager.cs",
+              "RelativeDocumentMoniker": "BooksApplication\\Repositories\\IBooksRepoManager.cs",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Repositories\\IBooksRepoManager.cs",
+              "RelativeToolTip": "BooksApplication\\Repositories\\IBooksRepoManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T20:12:05.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BooksApplication\\Models\\Book.cs",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Models\\Book.cs",
+              "RelativeToolTip": "BooksApplication\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:47:36.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BooksApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BooksApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:34:56.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Program.cs",
+              "RelativeDocumentMoniker": "BooksApplication\\Program.cs",
+              "ToolTip": "E:\\MS.NET workspace\\BooksSolution\\BooksApplication\\Program.cs",
+              "RelativeToolTip": "BooksApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:12:16.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
